@@ -1,0 +1,1 @@
+Adafruit CircuitPython 4.1.0-rc.1 on 2019-07-19; Adafruit PyRuler with samd21e18
